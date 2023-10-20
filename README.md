@@ -7,7 +7,7 @@ The website is dual encrypted and has good security features to protect your dat
 <br>•	The ability to send and receive private messages.
 <br>•	The ability to post and view events and announcements.
 <br>•	The ability to access resources and tools to help you achieve your goals.
-We encourage you to explore the website and learn more about what it has to offer. We are always adding new features and content, so be sure to check back often.
+<br>We encourage you to explore the website and learn more about what it has to offer. We are always adding new features and content, so be sure to check back often.
 Thank you for being a member of the Snoqualmie Indian Tribe community!
 
 trial version of community portal
